@@ -1,2 +1,3 @@
-# youtube-notes
-youtube-notes
+# Notes
+
+Notes and snippets from youtube videos.
